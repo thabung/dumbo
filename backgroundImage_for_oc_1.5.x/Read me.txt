@@ -1,0 +1,53 @@
+Features: 
+	1)	You can Change your store’s background image.
+	2)	You can change your product page background image.
+	3)	You can change Category page background image.
+	4)	You can change Manufacturer page background image.
+	5)	Each product, Category and Manufacturer page has its own background Image.
+	6)	In the admin panel
+
+		•	Go to your store setting, under the image tab you will see background image option. You can add your store’s background image here. We call it “Default background image”.
+
+		•	On product page, Under the Product image you will see background image option. You can add background image here, this image will appear on the background of that product page on Front end. If you will not set background image of any product then “Default background image” will appear on front end.
+
+		•	On the category page, under the date tab, you will see background image option. You can add background image here, this image will appear on the background of that category page on Front end. If you will not set background image of any category then “Default background image” will appear on front end.
+
+		•	On the Manufacturer page, under the image, you will see background image option. You can add background image here, this image will appear on the background of that manufacturer page on Front end. If you will not set background image of any manufacturer then “Default background image” will appear on front end.
+
+	7)	You can change image with background position fixed and cover.
+	8)	Supported will all “OPENCART” themes.
+	9)	Supported with responsive theme.
+	10)	Cross browser supported.
+	11)	Compatible with all mobile and tablet devices.
+	12)	After updating “OPENCART”, extension will work normal.
+	13)	Supported animated Images.
+
+
+Safety first:
+	We have tested this extension many times and it works perfect. But it’s a good approach to take a backup of store before installation of any extension. In case, extension disturbs your store you can delete the extension and restore your store. For take a backup and restore of your store, follow instructions in this video.
+	http://www.youtube.com/watch?v=yLQR1Xeuqrc
+
+
+How to install?
+	1)	Download Extension “Background Image Change (VQMOD)”.
+	2)	Upload “VQMOD” folder into your web root directory.
+	3)	After this, all remaining installation process, this extension will done itself. You don’t need to worry.
+
+
+Now go back to your store setting and change your store's old boring background image with multiple positions. 
+Easy to use. Easy to installation. No change will occur in your core “OPENCAR” files.
+After updating of “OPENCART” version it will work perfectly. 
+
+We have tested it many times and it worked nicely.
+But if you find any problem during using it, please inform me on extension page or email at "adnan00733@gmail.com". 
+
+If you don’t want to use it just go to your store setting and "Clear image" from background image.
+If you want to permanently delete this. Go to your web root directory. Then go to "VQMOD" folder then “XML" folder and delete the file "background_image.xml".
+
+
+I'll be grateful to you if you give me your feedback. 
+
+Thank you.
+
+Regards 
+Adnan Ahmad.
